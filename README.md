@@ -1,6 +1,6 @@
 ### Hi there 👋
 <img align="left" width="47%" src="https://awesome-github-stats.azurewebsites.net/user-stats/vishu2820?theme=github-dark"/>
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishu2820&layout=compact"/>
+<img align="left" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishu2820&layout=compact"/>
 
 
 <img align="left" alt="MYSql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
