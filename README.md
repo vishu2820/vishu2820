@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="left" width="47%" src="https://awesome-github-stats.azurewebsites.net/user-stats/vishu2820?theme=github-dark"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=vishu2820&show_icons=true&theme=github-dark"/>
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishu2820&layout=compact"/>
 
 <img align="left" alt="Php" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/>
